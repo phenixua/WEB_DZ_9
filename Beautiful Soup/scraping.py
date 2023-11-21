@@ -2,6 +2,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
+
 # Базовий URL сайту з цитатами
 BASE_URL = "http://quotes.toscrape.com"
 
